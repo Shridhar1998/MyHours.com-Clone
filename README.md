@@ -40,60 +40,79 @@ This collaborative project is a clone of the [MyHours](https://myhours.com) webs
 
 - **Landing Page**
 
-  ![Homepage](./Website%20sneak%20peeks/Homepage.png?raw=true)
+<img src="https://i.ibb.co/w0TDCdC/Homepage.png" alt="Homepage" border="0">
+
 
 - **Usecase Page**
 
-  ![Usecase](./Website%20sneak%20peeks/Usecase.png?raw=true)
+<img src="https://i.ibb.co/1m8m0pw/Usecase.png" alt="Usecase" border="0">
+
 
 - **Reviews**
 
-  ![Reviews](./Website%20sneak%20peeks/Reviews.png?raw=true)
+<img src="https://i.ibb.co/vjn8kDt/Reviews.png" alt="Reviews" border="0">
+  
 
 - **Pricing Page**
 
-  ![Pricing](./Website%20sneak%20peeks/Pricing.png?raw=true)
+<img src="https://i.ibb.co/BydntkX/Pricing.png" alt="Pricing" border="0">
 
 - **Frequently Asked Question**
 
-  ![FAQ](./Website%20sneak%20peeks/FAQ.png?raw=true)
+<img src="https://i.ibb.co/nRMcqG4/FAQ.png" alt="FAQ" border="0">
+
 
 -**Support**
 
-![Support](./Website%20sneak%20peeks/Support.png?raw=true)
+<img src="https://i.ibb.co/VvGvnDw/Support.png" alt="Support" border="0">
+
 
 - **Signup**
 
-  ![Signup](./Website%20sneak%20peeks/SignUp.png?raw=true)
+  <img src="https://i.ibb.co/JdDWcpd/SignUp.png" alt="SignUp" border="0">
+
 
   - **SignIn**
-    ![SignIn](./Website%20sneak%20peeks/SignIn.png?raw=true)
+    <img src="https://i.ibb.co/wWh4Ts7/SignIn.png" alt="SignIn" border="0">
+
 
 - **Track Page**
 
-  ![Track](./Website%20sneak%20peeks/Track.png)
+ <img src="https://i.ibb.co/Wxv3HpV/Track.png" alt="Track" border="0">
+
 
   - **Client**
-    ![Client](./Website%20sneak%20peeks/Client.png)
+   <img src="https://i.ibb.co/pxymJdv/Client.png" alt="Client" border="0">
+
 
   - **Clint Form**
-    ![Client Form](./Website%20sneak%20peeks/ClientForm.png)
+ <img src="https://i.ibb.co/ydSBsrW/Client-Form.png" alt="Client-Form" border="0">
+
 
   - **Team Members**
-    ![Team Members](./Website%20sneak%20peeks/TeamMembers.png)
+   
+<img src="https://i.ibb.co/RznXwKS/Team-Members.png" alt="Team-Members" border="0">
+
 
   - **Project**
-    ![Project](./Website%20sneak%20peeks/project.png)
+   <img src="https://i.ibb.co/0FsNwky/project.png" alt="project" border="0">
+
 
   - **Project Form**
-    ![Project Form](./Website%20sneak%20peeks/projectform.png)
+<img src="https://i.ibb.co/dKsJpQR/projectform.png" alt="projectform" border="0">
+
 
   - **Help**
     ![Help ](./Website%20sneak%20peeks/helps.png)
 
   - **WhatsNew**
-    ![WhatsNew ](./Website%20sneak%20peeks/whatnew.png)
+    <img src="https://i.ibb.co/vjpn613/whatnew.png" alt="whatnew" border="0">
+
 
 - **Footer**
 
-  ![Footer](./Website%20sneak%20peeks/Footer.png?raw=true)
+  <img src="https://i.ibb.co/HDN3m50/Footer.png" alt="Footer" border="0">
+
+  
+  
+
