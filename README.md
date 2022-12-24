@@ -69,49 +69,50 @@ This collaborative project is a clone of the [MyHours](https://myhours.com) webs
 
 - **Signup**
 
-  <img src="https://i.ibb.co/JdDWcpd/SignUp.png" alt="SignUp" border="0">
+ <img src="https://i.ibb.co/JdDWcpd/SignUp.png" alt="SignUp" border="0">
 
 
-  - **SignIn**
-    <img src="https://i.ibb.co/wWh4Ts7/SignIn.png" alt="SignIn" border="0">
+ - **SignIn**
+  <img src="https://i.ibb.co/wWh4Ts7/SignIn.png" alt="SignIn" border="0">
 
 
 - **Track Page**
 
- <img src="https://i.ibb.co/Wxv3HpV/Track.png" alt="Track" border="0">
+  <img src="https://i.ibb.co/Wxv3HpV/Track.png" alt="Track" border="0">
 
 
-  - **Client**
-   <img src="https://i.ibb.co/pxymJdv/Client.png" alt="Client" border="0">
+- **Client**
+  <img src="https://i.ibb.co/pxymJdv/Client.png" alt="Client" border="0">
 
 
-  - **Clint Form**
+- **Clint Form**
  <img src="https://i.ibb.co/ydSBsrW/Client-Form.png" alt="Client-Form" border="0">
 
 
-  - **Team Members**
+- **Team Members**
    
-<img src="https://i.ibb.co/RznXwKS/Team-Members.png" alt="Team-Members" border="0">
+ <img src="https://i.ibb.co/RznXwKS/Team-Members.png" alt="Team-Members" border="0">
 
 
-  - **Project**
-   <img src="https://i.ibb.co/0FsNwky/project.png" alt="project" border="0">
+- **Project**
+ <img src="https://i.ibb.co/0FsNwky/project.png" alt="project" border="0">
 
 
-  - **Project Form**
-<img src="https://i.ibb.co/dKsJpQR/projectform.png" alt="projectform" border="0">
+- **Project Form**
+ <img src="https://i.ibb.co/dKsJpQR/projectform.png" alt="projectform" border="0">
 
 
-  - **Help**
-    ![Help ](./Website%20sneak%20peeks/helps.png)
+- **Help**
+ <img src="https://i.ibb.co/nm2z58G/helps.png" alt="helps" border="0">
 
-  - **WhatsNew**
-    <img src="https://i.ibb.co/vjpn613/whatnew.png" alt="whatnew" border="0">
+
+- **WhatsNew**
+ <img src="https://i.ibb.co/vjpn613/whatnew.png" alt="whatnew" border="0">
 
 
 - **Footer**
 
-  <img src="https://i.ibb.co/HDN3m50/Footer.png" alt="Footer" border="0">
+ <img src="https://i.ibb.co/HDN3m50/Footer.png" alt="Footer" border="0">
 
   
   
