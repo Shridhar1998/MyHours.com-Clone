@@ -1,4 +1,4 @@
-# My Hours Clone
+# My Hours Clone - website
 
 This collaborative project is a clone of the [MyHours](https://myhours.com) website. We as a team of 5 members cloned this website during our Unit 5 construct project week in Masai School, Bangalore.
 
